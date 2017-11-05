@@ -1,0 +1,2 @@
+* * * * * root python /home/pi/arup_sts_datalogger/ocean_sts_read.py
+* * * * * root sleep 30 ; python /home/pi/arup_sts_datalogger/ocean_sts_read.py

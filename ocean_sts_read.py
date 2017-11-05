@@ -25,8 +25,8 @@ import urllib2
 desired_integration_time = 10000000 # min is 10, max is 85000000
 illuminance_multiplier = .000003
 #output_filename = "/home/pi/readings.csv"
-output_filename = "/Code/OceanOptics_STS/readings.csv"
-spectra_filename = "/Code/OceanOptics_STS/spectra.csv"
+output_filename = "/home/pi/readings.csv"
+spectra_filename = "/home/pi/spectra.csv"
 #address = "192.168.42.1"
 #address = "localhost"
 address = "192.168.1.114"
